@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fff;
+    font-family: Arial;
+}
+
+.section{
+    background-color: yellowgreen;
+    width: 80%;
+    height: 500px;
+    margin: auto;
+}
+
+
+.subirJS{
+    border: 1px solid red;
+    text-align: center;
+    height: 90%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rotulos{
+    margin-top: 20px;
+    width: 80px;
+}
+
+.subirJS h1{
+    margin-top: 40px;
+}
+
+.subirJS textarea{
+    margin-top: 30px;
+    width: 50%;
+    height: 60%;
+    resize: none;
+}
+
+
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+}
+
+.mostrarJS {
+    width: 80mm;
+    height: 80mm;
+    outline: 1px solid #000;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.mostrarJS ul {
+    list-style: none;
+}
+
+.mostrarJS ul li {
+    color: #000;
+}
+
+.divPedido {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pedido {
+    color: #000;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.divDetalle {
+    width: 100%;
+    height: 70%;
+}
+
+
+.item {
+    text-align: center;
+    padding-top: 50px;
+    color: #000;
+}

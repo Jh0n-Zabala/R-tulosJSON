@@ -1,0 +1,552 @@
+{
+    "id": "67e704d9ce2c9302b6b6799e",
+    "address": null,
+    "badges": {
+        "attachments": 2,
+        "fogbugz": "",
+        "checkItems": 18,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "creationMethodError": null,
+    "creationMethodLoadingStartedAt": null,
+    "dueComplete": false,
+    "dateClosed": null,
+    "dateLastActivity": "2025-03-28T21:08:17.828Z",
+    "dateCompleted": null,
+    "dateViewedByCreator": null,
+    "desc": "LXY\n\nPedido 3847\n\n‌\n\n‌\n\nRESPONSABLE: Sofia\n\nNombre: Sofia Sierra Bustamante\n\nCedula: 1000943423\n\nDirección de entrega : Cra 37A # 15b - 50 Font living apto 2710\n\n**ENVIO YA PAGO 14.000**\nCiudad: Poblado, Medellin\n\nCorreo: [sofiasierrab@hotmail.com](mailto:sofiasierrab@hotmail.com \"‌\")\n\nContacto: 3176679187\n\n‌\n\n**FACTURA IVA PLAZO 1 DIA**\n\n**Favor tomar foto al finalizar el proceso de ensamble**\n\n‌\n\n1 unds termo travel 890 ml blanco precio: $ 33,613.44538 Subtotal = $ 40,000.000\n\n1 unds termo travel 600 ml negro precio: $ 42,016.80672 Subtotal = $ 50,000.000\n\n1 unds termo travel 890 ml blanco (Personalizado María Amor) precio: $ 42,016.80672 Subtotal = $ 50,000.000\n\n1 unds termo travel 890 ml blanco (Personalizado Cami Becerra) precio: $ 42,016.80672 Subtotal = $ 50,000.000\n\n1 unds termo on the go flip 1200 ml azul oscuro precio: $ 38,655.46218 Subtotal = $ 46,000.000\n\n1 unds termo on the go flip 1200 ml azul pastel (Personalizadp MCP) precio: $ 47,058.82353 Subtotal = $ 56,000.000\n\n1 unds termo travel 890 ml blanco precio: $ 33,613.44538 Subtotal = $ 40,000.000\n\n1 unds termo travel 890 ml blanco precio: $ 33,613.44538 Subtotal = $ 40,000.000\n\n1 unds termo on the go flip 1200 ml azul pastel precio: $ 38,655.46218 Subtotal = $ 46,000.000\n\n‌\n\nTOTAL:$418.000",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": "gabo230281+2sgfoe0awo35qt4cbg1+348ep7ux3nkonhgwfby+2h2k31yxdf@boards.trello.com",
+    "externalSource": null,
+    "idBoard": "63b2eff0b5d2c1062378433e",
+    "idChecklists": [
+        "67e704dace2c9302b6b681bb",
+        "67e704dace2c9302b6b681b9"
+    ],
+    "idLabels": [
+        "6761f32b2d128cb5a0a766e1",
+        "678f99db66b51ae80f955c7c"
+    ],
+    "idList": "676d946e1b25b329c2d69658",
+    "idMemberCreator": "67be31c9549cc98a0000629a",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "63b2e7619f60fd00237c860b",
+    "idShort": 4869,
+    "idAttachmentCover": "67e704dace2c9302b6b6818d",
+    "labels": [
+        {
+            "id": "6761f32b2d128cb5a0a766e1",
+            "idBoard": "63b2eff0b5d2c1062378433e",
+            "idOrganization": "63b2e7619f60fd00237c860b",
+            "name": "BC OK",
+            "nodeId": "ari:cloud:trello::label/workspace/63b2e7619f60fd00237c860b/6761f32b2d128cb5a0a766e1",
+            "color": "green",
+            "uses": 881
+        },
+        {
+            "id": "678f99db66b51ae80f955c7c",
+            "idBoard": "63b2eff0b5d2c1062378433e",
+            "idOrganization": "63b2e7619f60fd00237c860b",
+            "name": "COMPROBANTE OK",
+            "nodeId": "ari:cloud:trello::label/workspace/63b2e7619f60fd00237c860b/678f99db66b51ae80f955c7c",
+            "color": "sky_dark",
+            "uses": 553
+        }
+    ],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": false,
+    "name": "PEDIDO # 8466 SOFIA SIERRA BUSTAMANTE",
+    "nodeId": "ari:cloud:trello::card/workspace/63b2e7619f60fd00237c860b/67e704d9ce2c9302b6b6799e",
+    "pinned": false,
+    "pos": 155648,
+    "shortLink": "WCShlu2h",
+    "shortUrl": "https://trello.com/c/WCShlu2h",
+    "sourceEmail": null,
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/WCShlu2h/4869-pedido-8466-sofia-sierra-bustamante",
+    "cover": {
+        "idAttachment": "67e704dace2c9302b6b6818d",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "scaled": [
+            {
+                "id": "67e704dace2c9302b6b6818e",
+                "_id": "67e704dace2c9302b6b6818e",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/67e704d9ce2c9302b6b6799e/attachments/67e704dace2c9302b6b6818d/previews/67e704dace2c9302b6b6818e/download/bf95d4c7-91fd-4dc5-b4e6-90760f7eb938.webp",
+                "bytes": 518,
+                "height": 50,
+                "width": 70
+            },
+            {
+                "id": "67e704dace2c9302b6b6818f",
+                "_id": "67e704dace2c9302b6b6818f",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/67e704d9ce2c9302b6b6799e/attachments/67e704dace2c9302b6b6818d/previews/67e704dace2c9302b6b6818f/download/bf95d4c7-91fd-4dc5-b4e6-90760f7eb938.webp",
+                "bytes": 2062,
+                "height": 150,
+                "width": 250
+            },
+            {
+                "id": "67e704dace2c9302b6b68190",
+                "_id": "67e704dace2c9302b6b68190",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/67e704d9ce2c9302b6b6799e/attachments/67e704dace2c9302b6b6818d/previews/67e704dace2c9302b6b68190/download/bf95d4c7-91fd-4dc5-b4e6-90760f7eb938.webp",
+                "bytes": 4590,
+                "height": 250,
+                "width": 150
+            },
+            {
+                "id": "67e704dace2c9302b6b68191",
+                "_id": "67e704dace2c9302b6b68191",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/67e704d9ce2c9302b6b6799e/attachments/67e704dace2c9302b6b6818d/previews/67e704dace2c9302b6b68191/download/bf95d4c7-91fd-4dc5-b4e6-90760f7eb938.webp",
+                "bytes": 11630,
+                "height": 500,
+                "width": 300
+            },
+            {
+                "id": "67e704dace2c9302b6b68192",
+                "_id": "67e704dace2c9302b6b68192",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/67e704d9ce2c9302b6b6799e/attachments/67e704dace2c9302b6b6818d/previews/67e704dace2c9302b6b68192/download/bf95d4c7-91fd-4dc5-b4e6-90760f7eb938.webp",
+                "bytes": 27560,
+                "height": 1000,
+                "width": 600
+            },
+            {
+                "id": "67e704dace2c9302b6b68193",
+                "_id": "67e704dace2c9302b6b68193",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/67e704d9ce2c9302b6b6799e/attachments/67e704dace2c9302b6b6818d/previews/67e704dace2c9302b6b68193/download/bf95d4c7-91fd-4dc5-b4e6-90760f7eb938.webp",
+                "bytes": 35660,
+                "height": 1280,
+                "width": 768
+            }
+        ],
+        "edgeColor": "#f4f4f4",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "mirrorSourceId": null,
+    "mirrorSourceNodeId": null,
+    "checklists": [
+        {
+            "id": "67e704dace2c9302b6b681bb",
+            "name": "VERIFICACION",
+            "idBoard": "63b2eff0b5d2c1062378433e",
+            "idCard": "67e704d9ce2c9302b6b6799e",
+            "pos": 49152,
+            "limits": {
+                "checkItems": {
+                    "perChecklist": {
+                        "status": "ok",
+                        "disableAt": 200,
+                        "warnAt": 160
+                    }
+                }
+            },
+            "checkItems": [
+                {
+                    "id": "67e70fbde14b32649e16312c",
+                    "name": "1 unds termo travel 890 ml blanco         ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 16384,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681bb"
+                },
+                {
+                    "id": "67e70fbdcf359d23c3df133d",
+                    "name": "1 unds termo travel 600 ml negro         ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 32768,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681bb"
+                },
+                {
+                    "id": "67e70fbe7d31076e5600c43a",
+                    "name": "1 unds termo travel 890 ml blanco (Personalizado María Amor)        ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 49152,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681bb"
+                },
+                {
+                    "id": "67e70fbe244a372859980172",
+                    "name": "1 unds termo travel 890 ml blanco (Personalizado Cami Becerra)        ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 65536,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681bb"
+                },
+                {
+                    "id": "67e70fbef6c5954b9c7cada4",
+                    "name": "1 unds termo on the go flip 1200 ml azul oscuro         ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 81920,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681bb"
+                },
+                {
+                    "id": "67e70fbff7f63f4df6d5edb5",
+                    "name": "1 unds termo on the go flip 1200 ml azul pastel (Personalizadp MCP)        ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 98304,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681bb"
+                },
+                {
+                    "id": "67e70fbf5463d47505d570d8",
+                    "name": "1 unds termo travel 890 ml blanco         ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 114688,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681bb"
+                },
+                {
+                    "id": "67e70fbfbec93020e47f8f97",
+                    "name": "1 unds termo travel 890 ml blanco         ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 131072,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681bb"
+                },
+                {
+                    "id": "67e70fc0d096b9a55ed67886",
+                    "name": "1 unds termo on the go flip 1200 ml azul pastel",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 147456,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681bb"
+                }
+            ],
+            "creationMethod": null
+        },
+        {
+            "id": "67e704dace2c9302b6b681b9",
+            "name": "CONFIRMACION ETIQUETADO",
+            "idBoard": "63b2eff0b5d2c1062378433e",
+            "idCard": "67e704d9ce2c9302b6b6799e",
+            "pos": 32768,
+            "limits": {
+                "checkItems": {
+                    "perChecklist": {
+                        "status": "ok",
+                        "disableAt": 200,
+                        "warnAt": 160
+                    }
+                }
+            },
+            "checkItems": [
+                {
+                    "id": "67e70fbf5dd7dfbf16aa81d3",
+                    "name": "1 unds termo travel 890 ml blanco         ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 16384,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681b9"
+                },
+                {
+                    "id": "67e70fbfe16f9af4545e77f3",
+                    "name": "1 unds termo travel 600 ml negro         ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 32768,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681b9"
+                },
+                {
+                    "id": "67e70fbfc99bc421540b6bf8",
+                    "name": "1 unds termo travel 890 ml blanco (Personalizado María Amor)        ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 49152,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681b9"
+                },
+                {
+                    "id": "67e70fc0dc052395ec610621",
+                    "name": "1 unds termo travel 890 ml blanco (Personalizado Cami Becerra)        ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 65536,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681b9"
+                },
+                {
+                    "id": "67e70fc076057e048eccb957",
+                    "name": "1 unds termo on the go flip 1200 ml azul oscuro         ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 81920,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681b9"
+                },
+                {
+                    "id": "67e70fc05264d31d185a0dc5",
+                    "name": "1 unds termo on the go flip 1200 ml azul pastel (Personalizadp MCP)        ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 98304,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681b9"
+                },
+                {
+                    "id": "67e70fc1786a21fb51417694",
+                    "name": "1 unds termo travel 890 ml blanco         ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 114688,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681b9"
+                },
+                {
+                    "id": "67e70fc1bfe2b1e1df610054",
+                    "name": "1 unds termo travel 890 ml blanco         ",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 131072,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681b9"
+                },
+                {
+                    "id": "67e70fc168c5b1cbbde81d07",
+                    "name": "1 unds termo on the go flip 1200 ml azul pastel",
+                    "nameData": {
+                        "emoji": {}
+                    },
+                    "pos": 147456,
+                    "state": "incomplete",
+                    "due": null,
+                    "dueReminder": null,
+                    "idMember": null,
+                    "idChecklist": "67e704dace2c9302b6b681b9"
+                }
+            ],
+            "creationMethod": null
+        }
+    ],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "67e70fb73a9e94838a5b6c1f",
+            "idMemberCreator": "67be31c9549cc98a0000629a",
+            "data": {
+                "old": {
+                    "desc": "LXY\n\nPedido 3847\n\n‌\n\n‌\n\nRESPONSABLE: Sofia\n\nNombre: Sofia Sierra Bustamante\n\nCedula: 1000943423\n\nDirección de entrega : Cra 37A # 15b - 50 Font living apto 2710\n\n**ENVIO YA PAGO 14.000**\nCiudad: Poblado, Medellin\n\nCorreo: [sofiasierrab@hotmail.com](mailto:sofiasierrab@hotmail.com \"‌\")\n\nContacto: 3176679187\n\n‌\n\n**FACTURA IVA PLAZO 1 DIA**\n\n**Favor tomar foto al finalizar el proceso de ensamble**\n\n‌\n\n1 und termo travel 890 blanco $ 40000\n\n1 und termo travel 600 gris claro $ 50000\n\n1 und termo travel 890 blanco (Personalizado María Amor) $ 50000\n\n1 und termo travel 890ml blanco (Personalizado Cami Becerra) $ 50000\n\n1 und termo On the go Flip 1200ml azul oscuro $ 46000\n\n1 und termo on the go flip azul pastel (Personalizadp MCP) $ 56000\n\n1 und termo Travel 890 blanco $ 40000\n\n1 und termo travel 890 blanco $ 40000\n\n1 und termo on the go flip 1200 azul pastel $ 46000\n\nTOTAL:$"
+                },
+                "card": {
+                    "desc": "LXY\n\nPedido 3847\n\n‌\n\n‌\n\nRESPONSABLE: Sofia\n\nNombre: Sofia Sierra Bustamante\n\nCedula: 1000943423\n\nDirección de entrega : Cra 37A # 15b - 50 Font living apto 2710\n\n**ENVIO YA PAGO 14.000**\nCiudad: Poblado, Medellin\n\nCorreo: [sofiasierrab@hotmail.com](mailto:sofiasierrab@hotmail.com \"‌\")\n\nContacto: 3176679187\n\n‌\n\n**FACTURA IVA PLAZO 1 DIA**\n\n**Favor tomar foto al finalizar el proceso de ensamble**\n\n‌\n\n1 unds termo travel 890 ml blanco precio: $ 33,613.44538 Subtotal = $ 40,000.000\n\n1 unds termo travel 600 ml negro precio: $ 42,016.80672 Subtotal = $ 50,000.000\n\n1 unds termo travel 890 ml blanco (Personalizado María Amor) precio: $ 42,016.80672 Subtotal = $ 50,000.000\n\n1 unds termo travel 890 ml blanco (Personalizado Cami Becerra) precio: $ 42,016.80672 Subtotal = $ 50,000.000\n\n1 unds termo on the go flip 1200 ml azul oscuro precio: $ 38,655.46218 Subtotal = $ 46,000.000\n\n1 unds termo on the go flip 1200 ml azul pastel (Personalizadp MCP) precio: $ 47,058.82353 Subtotal = $ 56,000.000\n\n1 unds termo travel 890 ml blanco precio: $ 33,613.44538 Subtotal = $ 40,000.000\n\n1 unds termo travel 890 ml blanco precio: $ 33,613.44538 Subtotal = $ 40,000.000\n\n1 unds termo on the go flip 1200 ml azul pastel precio: $ 38,655.46218 Subtotal = $ 46,000.000\n\n‌\n\nTOTAL:$418.000",
+                    "id": "67e704d9ce2c9302b6b6799e",
+                    "name": "PEDIDO # 8466 SOFIA SIERRA BUSTAMANTE",
+                    "idShort": 4869,
+                    "shortLink": "WCShlu2h"
+                },
+                "board": {
+                    "id": "63b2eff0b5d2c1062378433e",
+                    "name": "PEDIDOS MERCADEO",
+                    "shortLink": "r1Vte06i"
+                },
+                "list": {
+                    "id": "676d946e1b25b329c2d69658",
+                    "name": "PEDIDOS DETAL"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-03-28T21:08:07.362Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "67be31c9549cc98a0000629a",
+                "activityBlocked": false,
+                "avatarHash": "ef10b6f7004093b40147bb1472eecdc2",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/67be31c9549cc98a0000629a/ef10b6f7004093b40147bb1472eecdc2",
+                "fullName": "Facturación Termox",
+                "idMemberReferrer": null,
+                "initials": "FT",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "facturaciontermox"
+            }
+        },
+        {
+            "id": "67e704d9ce2c9302b6b679e3",
+            "idMemberCreator": "67be31c9549cc98a0000629a",
+            "data": {
+                "card": {
+                    "id": "67e704d9ce2c9302b6b6799e",
+                    "name": "PEDIDO # 8466 SOFIA SIERRA BUSTAMANTE",
+                    "idShort": 4869,
+                    "shortLink": "WCShlu2h"
+                },
+                "list": {
+                    "id": "676d946e1b25b329c2d69658",
+                    "name": "PEDIDOS DETAL"
+                },
+                "board": {
+                    "id": "63b2eff0b5d2c1062378433e",
+                    "name": "PEDIDOS MERCADEO",
+                    "shortLink": "r1Vte06i"
+                },
+                "cardSource": {
+                    "id": "67e5b626f8e81ff97e4e8e5f",
+                    "name": "PEDIDO # LXY 3847 Sofia Sierra Bustamante",
+                    "idShort": 3099,
+                    "shortLink": "l2GdE9kh"
+                }
+            },
+            "appCreator": null,
+            "type": "copyCard",
+            "date": "2025-03-28T20:21:45.500Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "67be31c9549cc98a0000629a",
+                "activityBlocked": false,
+                "avatarHash": "ef10b6f7004093b40147bb1472eecdc2",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/67be31c9549cc98a0000629a/ef10b6f7004093b40147bb1472eecdc2",
+                "fullName": "Facturación Termox",
+                "idMemberReferrer": null,
+                "initials": "FT",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "facturaciontermox"
+            }
+        }
+    ]
+}

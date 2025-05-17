@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pdf</title>
+</head>
+
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.2/html2pdf.bundle.min.js"></script>
+    <style>
+        .conte {
+            width: 9cm;
+            height: 8cm;
+            border: 1px solid #000;
+            text-align: center;
+        }
+    </style>
+
+    <div class="conte">
+        <h2>PARA PDF</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam molestiae culpa, quibusdam facere libero
+            dicta quas consequatur? Vero, tenetur atque sequi, aperiam perspiciatis alias molestiae modi rem dolor optio
+            nobis.</p>
+
+
+    <button onclick="exportarPDF()">PDF HERE!!!!</button>
+
+    <script>
+        function exportarPDF(){
+            const elemento = document.querySelector(".conte");
+
+            const opciones ={
+                filename: "pruebaPDF.pdf",
+                image: {type: 'jpeg',quality: 0.98},
+                html2canvas: {scale: 3},
+                jsPDF:{
+                    unit: 'cm',
+                    format: [9,8],
+                    orientation: 'landscape'
+                }
+            };
+
+            html2pdf().from(elemento).set(opciones).save();
+        }
+    </script>
+</body>
+
+</html>
