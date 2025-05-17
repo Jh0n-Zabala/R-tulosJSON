@@ -1,33 +1,48 @@
 
-document.addEventListener("DOMContentLoaded", () => {
-    const btnRotulos = document.querySelector(".rotulos");
-    btnRotulos.addEventListener("click", transformarJSON);
-})
+const texta = document.getElementById("areaJSON");
+texta.addEventListener("keydown", (e) => e.preventDefault());
+
+texta.addEventListener("paste", transformarJSON);
+
+const btnLimpiar = document.querySelector(".btnLimpiar")
+btnLimpiar.addEventListener("click", limpiarArea)
+
+const contenedor = document.querySelector(".contenedor")
+
+const btnPDF = document.querySelector(".btnPDF");
+btnPDF.addEventListener("click", exportarPDF);
 
 
+function limpiarArea() {
+    document.getElementById("areaJSON").value = "";
+    contenedor.innerHTML = "";
+    btnPDF.disabled = true;
+}
 
 function transformarJSON() {
-    const btnPDF = document.querySelector(".btnPDF");
-    btnPDF.addEventListener("click", exportarPDF);
 
-    let data;
-    let area = document.getElementById("areaJSON").value;
+    setTimeout(() => {
 
-    try {
-        data = JSON.parse(area)
-        btnPDF.disabled = false;
+        let data;
+        let area = texta.value
 
-    } catch {
-        console.log("El texto no es un JSON")
-    }
+        try {
+            data = JSON.parse(area)
+            btnPDF.disabled = false;
 
-    let pedido = data.name;
-    let items = [];
+        } catch {
+            console.log("El texto no es un JSON")
+        }
 
-    for (let item in data.checklists[0].checkItems) {
-        items.push(data.checklists[0].checkItems[item].name);
-    }
-    re(items, pedido);
+        let pedido = data.name;
+        let items = [];
+
+        for (let item in data.checklists[0].checkItems) {
+            items.push(data.checklists[0].checkItems[item].name);
+        }
+        re(items, pedido);
+
+    }), 0;
 
 }
 
@@ -59,8 +74,6 @@ function re(it, Npedido) {
         rotulos.appendChild(divDetalle);
         fragmento.appendChild(rotulos);
     }
-
-    const contenedor = document.querySelector(".contenedor")
     contenedor.appendChild(fragmento)
 
 }

@@ -3,21 +3,26 @@
     padding: 0;
 }
 
+html{
+    overflow-y: scroll;
+}
+
 body {
     background-color: #fff;
     font-family: Arial;
 }
 
 .section{
-    background-color: yellowgreen;
-    width: 80%;
+    color: #fff;
+    background-color: #222;
+    width: 60%;
     height: 500px;
-    margin: auto;
+    margin: 10vh auto;
+    border-radius: 20px;
 }
 
 
 .subirJS{
-    border: 1px solid red;
     text-align: center;
     height: 90%;
 
@@ -26,10 +31,6 @@ body {
     align-items: center;
 }
 
-.rotulos{
-    margin-top: 20px;
-    width: 80px;
-}
 
 .subirJS h1{
     margin-top: 40px;
@@ -42,6 +43,50 @@ body {
     resize: none;
 }
 
+.subirJS textarea:focus{
+    outline: none;
+}
+
+.subirJS-btns{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.subirJS-btns button{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+}
+
+.section-btnPDF{
+    height: 9%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.section-btnPDF button{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    margin-right: 30px;
+    transition: background-color .5s color .5s;
+}
+
+.section-btnPDF button:enabled{
+    background-color: red;
+    color: #000;
+
+}
+
+.section-btnPDF button:enabled:hover{
+    border: 1px solid #922b21;
+}
 
 .contenedor {
     display: flex;
